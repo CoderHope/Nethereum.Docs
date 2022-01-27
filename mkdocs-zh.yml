@@ -62,7 +62,7 @@ nav:
       - 管理随机数(nonces) : nethereum-managing-nonces.md
       - 智能合约入门 (untyped) : nethereum-gettingstarted-smartcontracts-untyped.md
       - 创建和部署合约(untyped): contracts/deploying.md
-      - 调用、事务、事件、过滤器和主题 (untyped): contracts/calling-transactions-events.md
+      - 调用,交易,事件, 筛选器和主题: contracts/calling-transactions-events.md
       - 多个输出参数和函数 DTO (untyped) : contracts/functiondtos.md
       - 事件轮询 (untyped) : nethereum-eventdtos-getallchanges.md
     - 消息签名 : nethereum-signing-messages.md
