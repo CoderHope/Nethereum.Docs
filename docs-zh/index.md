@@ -1,6 +1,6 @@
 # 什么是 Nethereum ?
 Nethereum 是以太坊的 .Net 集成库，简化了智能合约管理以及与以太坊节点的交互，
-无论是与开源的 [ Geth ](https://geth.ethereum.org/), [Parity](https://www.parity.io/)钱包客户端还是闭源的 [Quorum](https://www.jpmorgan.com/global/Quorum) 和 [Besu](https://besu.hyperledger.org/en/stable/)客户端.
+无论是与开源的 [ Geth ](https://geth.ethereum.org/), [Parity](https://www.parity.io/) 钱包客户端还是闭源的 [Quorum](https://www.jpmorgan.com/global/Quorum) 和 [Besu](https://besu.hyperledger.org/en/stable/) 客户端.
 
 Nethereum 建立在针对 netstandard 1.1、net451 以及可移植库进行开发，因此它与所有主要操作系统（Windows、Linux、macOS、Android 和 iOS）兼容，并已在云、移动、桌面、Xbox、 hololens 和 Windows Iot进行过测试。
 
@@ -11,7 +11,7 @@ Nethereum 建立在针对 netstandard 1.1、net451 以及可移植库进行开�
 * Geth 管理 API (admin, personal, debugging, miner).
 * [Parity](https://www.parity.io/) 管理Api.
 * [Quorum](nethereum-azure-quorum.md) 一体化.
-* [Besu](https://besu.hyperledger.org/en/stable/).
+* [Besu](https://besu.hyperledger.org/en/stable/) .
 * 用于部署、函数调用、事务和事件过滤以及主题解码的简化智能合约交互。
 * [Unity 3d](unity3d-introduction.md) Unity 一体化.
 * [Blockchain processing](nethereum-block-processing-detail.md).  
