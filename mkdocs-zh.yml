@@ -58,7 +58,7 @@ nav:
       - VS Code Solidity 代码生成演示 : nethereum-codegen-vscode-demo.md
       - 事件、日志和过滤器 : nethereum-events-gettingstarted.md
       - 使用凭证状态 : nethereum-receipt-status.md
-      - 在转账中估算Gas费 : nethereum-estimating-gas.md
+      - 在交易中估算Gas费 : nethereum-estimating-gas.md
       - 管理随机数(nonces) : nethereum-managing-nonces.md
       - 智能合约入门 (untyped) : nethereum-gettingstarted-smartcontracts-untyped.md
       - 创建和部署合约(untyped): contracts/deploying.md
