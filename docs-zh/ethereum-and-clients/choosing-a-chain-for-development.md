@@ -100,12 +100,12 @@ Azure BaaS（区块链即服务）允许您部署具有多个节点的测试网�
 
 以下是测试网 Ether 资源的列表：
 
-| Testnet Name | Faucet|
-|----------------------|-------|
-|Rinkeby|https://www.rinkeby.io/#faucet|
-|Ropsten|https://blog.b9lab.com/when-we-first-built-our-faucet-we-deployed-it-on-the-morden-testnet-70bfbf4e317e|
-|Kovan|Kovan 要求你向另一个人请求 KETH|
-|Goerli|https://goerli-faucet.slock.it/|
+| Testnet Name | Faucet                                                                                                  |
+|--------------|---------------------------------------------------------------------------------------------------------|
+| Rinkeby      | https://www.rinkeby.io/#faucet                                                                          |
+| Ropsten      | https://blog.b9lab.com/when-we-first-built-our-faucet-we-deployed-it-on-the-morden-testnet-70bfbf4e317e |
+| Kovan        | Kovan 要求你向另一个人请求 KETH                                                                                   |
+| Goerli       | https://goerli-faucet.slock.it/                                                                         |
 
 有关水龙头的更多具体建议，请查看 [这里](https://medium.com/@juanfranblanco/netherum-faucet-and-nuget-templates-4a088f06933d)
 
